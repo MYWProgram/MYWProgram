@@ -17,4 +17,4 @@
 
 ## Concat
 
-![Google](https://img.shields.io/badge/G-Google-green)mayawen0724@gmail.com
+mayawen0724@gmail.com
