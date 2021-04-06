@@ -11,6 +11,4 @@
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%235d9558&color=%232d2d2d)
 ![Deno](https://img.shields.io/badge/-Deno-%23F05032?style=for-the-badge&logo=Deno&logoColor=%23161c29&color=%23f8f9fa)
 
-## Status
-
 ![Github](https://github-readme-stats.vercel.app/api?username=MYWProgram&count_private=true&show_icons=true&theme=tokyonight)
